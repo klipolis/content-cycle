@@ -2,6 +2,11 @@ Content cycle guide
 
 Guide to return content to the public.
 
+Content cycle guidlines to develop into a practical guidelines for myself to remember to maintain my stuff and content, and eventually publish as a downloadable book for everyone.
+
+I got so many content, text, images, media files, and lists privately storing on my computer, in email or other online accounts. 
+Most could be shared back to the public. 
+I will find a way only have really personal things privately and share publicly information.
 
 
 ## Public collection
