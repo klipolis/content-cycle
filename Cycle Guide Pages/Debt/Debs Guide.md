@@ -18,6 +18,10 @@ List of debts, which requires time, energy, money.
 - setup technical devices
 - buy house
 - create business
+- learning systems
+- habbits, routines system
+- motivations, inspiration list
+- database for raw and distributed content
 
 ### Long term periodic debts
 
@@ -26,11 +30,15 @@ List of debts, which requires time, energy, money.
 - inventory management
 - passport, id and document renew
 - bank account review
+- credit cards review
 - email accounts review
 - investment accounts review
 - attend events
 - unexpected requests
 - information gathering
+- time management methods
+- ted talks
+- local copies of contents
 
 ### Medium term periodic debts
 
@@ -50,6 +58,8 @@ List of debts, which requires time, energy, money.
 - subscriptions renew
 - friend
 - unexpected help
+- expos
+- exhibitions
 
 ### Short term periodic debts
 
@@ -67,7 +77,7 @@ List of debts, which requires time, energy, money.
 - meditation
 - eating
 - body grooming, management
-- exercise
+- daily exercise
 - clothes management
 - cleaning
 - research and development, learning
@@ -75,6 +85,9 @@ List of debts, which requires time, energy, money.
 - email messages
 - inspirations, social pages 
 - subscriptions payments
+- summarise day
+- review day
+- change plans
 
 ### Unexpected debts
 
