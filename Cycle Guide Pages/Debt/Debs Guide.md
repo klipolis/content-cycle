@@ -22,6 +22,8 @@ List of debts, which requires time, energy, money.
 - habbits, routines system
 - motivations, inspiration list
 - database for raw and distributed content
+- saving documents, framework
+- app management, checkup, tests
 
 ### Long term periodic debts
 
@@ -31,19 +33,47 @@ List of debts, which requires time, energy, money.
 - passport, id and document renew
 - bank account review
 - credit cards review
-- email accounts review
 - investment accounts review
 - attend events
 - unexpected requests
 - information gathering
 - time management methods
 - ted talks
-- local copies of contents
 - communication frameworks
 - accountability frameworks
 - human behaviours
 - memory management
 - prevention of old age health issues 
+
+### Digital accounts debts
+
+- setup desktop
+- setup mobile
+- system updates
+- system settings review
+- system user accounts review
+- online accounts login details review
+- email accounts review
+- social accounts settings review
+- social accounts newsfeed subscription review
+- local copies of contents
+- apps updates
+- apps organising on desktop
+- apps organising on mobile
+- apps settings review on desktop
+- apps settings review on mobile
+- photos categorise on desktop
+- photos categorise on mobile
+- files organising on desktop
+- files organising on mobile
+- browser settings review
+- browser account review, sync setup
+- browser favourites, history, syncronise
+- authentication app setup
+- password management setup
+- printer setup
+- 
+
 
 ### Medium term periodic debts
 
@@ -87,8 +117,9 @@ List of debts, which requires time, energy, money.
 - clothes management
 - cleaning
 - research and development, learning
-- email newsletters
-- email messages
+- research events
+- email newsletters check
+- email messages readn and reply
 - inspirations, social pages 
 - subscriptions payments
 - summarise day
