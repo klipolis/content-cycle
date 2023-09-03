@@ -39,6 +39,11 @@ List of debts, which requires time, energy, money.
 - time management methods
 - ted talks
 - local copies of contents
+- communication frameworks
+- accountability frameworks
+- human behaviours
+- memory management
+- prevention of old age health issues 
 
 ### Medium term periodic debts
 
@@ -75,6 +80,7 @@ List of debts, which requires time, energy, money.
 - unexpected calls
 - personal time
 - meditation
+- memory games
 - eating
 - body grooming, management
 - daily exercise
