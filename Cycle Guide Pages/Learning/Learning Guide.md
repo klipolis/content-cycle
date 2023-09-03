@@ -20,3 +20,17 @@ Development Guide
 - health checkups
 - finance management
 - seasons, weather
+- content cycle
+
+### Systems
+
+- time management
+- calendar setup
+- content submission, forms
+- online backup storage setup
+- education
+
+## Learning techniques
+
+- visualisation
+- speed reading
