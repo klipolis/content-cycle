@@ -24,6 +24,7 @@ List of debts, which requires time, energy, money.
 - database for raw and distributed content
 - saving documents, framework
 - app management, checkup, tests
+- health devices
 
 ### Long term periodic debts
 
@@ -43,7 +44,9 @@ List of debts, which requires time, energy, money.
 - accountability frameworks
 - human behaviours
 - memory management
-- prevention of old age health issues 
+- prevention of old age health issues
+- manage packaging
+- 
 
 ### Digital accounts debts
 
@@ -57,6 +60,10 @@ List of debts, which requires time, energy, money.
 - social accounts settings review
 - social accounts newsfeed subscription review
 - local copies of contents
+- apps researching
+- apps documentation reading
+- apps trouble shouting
+- apps testing
 - apps updates
 - apps organising on desktop
 - apps organising on mobile
@@ -72,7 +79,7 @@ List of debts, which requires time, energy, money.
 - authentication app setup
 - password management setup
 - printer setup
-- 
+- health trackers, measurements
 
 
 ### Medium term periodic debts
@@ -91,32 +98,54 @@ List of debts, which requires time, energy, money.
 - family visits
 - gardening
 - subscriptions renew
-- friend
+- friend meetings
 - unexpected help
-- expos
-- exhibitions
+- celebration events
+- birthday parties
+- expos attendance
+- exhibition visits
+- bookshops visit
+- city wandering
+- shopping
+- charity shop visit
+- carboot sales, markets visit
+- volunteering in kitchen
 
 ### Short term periodic debts
 
 - journaling
 - promissing
 - planning
+- thinking
+- celebrating
 - sleeping
 - resting
 - tiredness
+- distruction
+- regression
+- obstacles, bad habits
 - living with health conditions
 - socialising with friends
 - socialising with public
-- unexpected calls
+- phone calls - planned
+- phone calls - friends
+- phone calls - unexpected
+- phone calls - spam
 - personal time
 - meditation
+- read books
+- read magazines
+- manage leaflets
+- manage business cards
 - memory games
 - eating
 - body grooming, management
 - daily exercise
 - clothes management
 - cleaning
+- manage 
 - research and development, learning
+- unlearning habbits
 - research events
 - email newsletters check
 - email messages readn and reply

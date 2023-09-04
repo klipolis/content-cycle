@@ -28,9 +28,12 @@ Development Guide
 - calendar setup
 - content submission, forms
 - online backup storage setup
-- education
+- education plan
+- house maintainance
+- disaster plan
 
 ## Learning techniques
 
-- visualisation
-- speed reading
+- visualisation techniques
+- [speed reading](https://github.com/klihelp/notes-read-books)
+
