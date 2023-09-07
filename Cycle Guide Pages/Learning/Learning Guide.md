@@ -14,6 +14,7 @@ Development Guide
 - written language
 - psychology 
 - human behaviours
+- tradition, culture
 - phylosophical 
 - diet frameworks
 - exercise frameworks
@@ -35,5 +36,5 @@ Development Guide
 ## Learning techniques
 
 - visualisation techniques
-- [speed reading](https://github.com/klihelp/notes-read-books)
+- [speed reading](https://github.com/klipolis/notes-read-books)
 

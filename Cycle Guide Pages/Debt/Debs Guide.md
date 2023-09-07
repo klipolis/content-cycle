@@ -79,7 +79,9 @@ List of debts, which requires time, energy, money.
 - authentication app setup
 - password management setup
 - printer setup
-- health trackers, measurements
+- printer review settings
+- health trackers
+- health measurements, review
 
 
 ### Medium term periodic debts
@@ -161,13 +163,31 @@ List of debts, which requires time, energy, money.
 - office closed
 - holiday effects
 - phone battery empty
+- charging device is not possible
+- charging device is possible at other location
 - phone broken
 - laptop broken
 - lost items
 - internet not connecting
 - online account not responding 
+- difficult to revisit important websites
+- internet too slow
+- register account for wifi connection
+- reconnect to wifi, connection session expired
+- limited wifi time at organisation
+- website blocked by organisation
+- online account not loading
+- online account password reset
+- online account long captcha verififation 
+- phone verification not received
 - phone verification not possible
 - ID document not with me
+- ID document damaged
+- finding object from pocket or bag takes time
+- finding ticket takes time
+- finding contact details takes time
+- contact details not recorded
+- information needed not saved
 - no money
 - no cash
 - no bank card
