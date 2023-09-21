@@ -51,6 +51,7 @@ List of debts, which requires time, energy, money.
 ### Digital accounts debts
 
 - setup desktop
+- setup smart watch
 - setup mobile
 - system updates
 - system settings review
